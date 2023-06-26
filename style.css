@@ -1,4 +1,7 @@
-
+.container{
+    display: column;
+    justify-content: center;
+}
 .circle1 {
     position: relative;
     width: 300px;
