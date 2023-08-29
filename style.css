@@ -1,7 +1,11 @@
-.container{
-    display: column;
+.container {
+    display: flex;
     justify-content: center;
+    align-items: center; 
+    min-height: 100vh;
+    background-color: lightgray; 
 }
+
 .circle1 {
     position: relative;
     width: 300px;
