@@ -1,6 +1,6 @@
 # pie chart
 
-Pie Divided is a simple web application that allows you to visually divide a pie into different sections using HTML and CSS. It's a fun way to demonstrate how you can create visually appealing designs with just a few lines of code.
+Pie Divided is a simple web application that allows you to visually divide a pie into different sections using HTML and CSS. It's a fun way to demonstrate how to create visually appealing designs with just a few lines of code.
 
 ## Getting Started
 
@@ -24,11 +24,11 @@ Once you have the project running in your browser, you can start dividing the pi
 Feel free to customize the project to suit your preferences. You can modify the following files to add your personal touch:
 
 - `index.html`: Update the title, heading, or any additional content you want to display.
-- `styles.css`: Adjust the colors, sizes, and styles of the pie sections to create different visual effects.
+- `styles.css`: Adjust the pie sections' colors, sizes, and styles to create different visual effects.
 
 ## screenshot
 
-![image](https://github.com/FREDVUNI/pie-chart/assets/41730664/3141b051-a00f-4045-9f83-9d6cc8956b5a)
+![image](https://github.com/FREDVUNI/pie-chart/assets/41730664/a4b8f140-0eb3-4e6d-abfb-f3663d78e323)
 
 
 ## Contributing
@@ -51,5 +51,5 @@ Special thanks to the contributors who have helped make Pie Divided possible.
 
 ## Contact
 
-If you have any questions or suggestions regarding Pie Divided, please contact me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com).
+If you have any questions or suggestions regarding Pie Divided, please get in touch with me at [fredvuni809@gmail.com](mailto:fredvuni809@gmail.com).
 
