@@ -26,6 +26,11 @@ Feel free to customize the project to suit your preferences. You can modify the 
 - `index.html`: Update the title, heading, or any additional content you want to display.
 - `styles.css`: Adjust the colors, sizes, and styles of the pie sections to create different visual effects.
 
+## screenshot
+
+![image](https://github.com/FREDVUNI/pie-chart/assets/41730664/3141b051-a00f-4045-9f83-9d6cc8956b5a)
+
+
 ## Contributing
 
 If you'd like to contribute to Pie Divided, follow these steps:
