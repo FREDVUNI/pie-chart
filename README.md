@@ -28,7 +28,7 @@ Feel free to customize the project to suit your preferences. You can modify the 
 
 ## screenshot
 
-![image](https://github.com/FREDVUNI/pie-chart/assets/41730664/a4b8f140-0eb3-4e6d-abfb-f3663d78e323)
+![image](https://github.com/FREDVUNI/pie-chart/assets/41730664/69849a81-cd9c-48dd-8bed-004989ccee09)
 
 
 ## Contributing
